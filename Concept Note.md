@@ -4,7 +4,7 @@
 
 Measuring meaningfully the financial impact of disruptive reporting that includes but is not limited to combatting corruption, grievance redressal and more as the ecosystem grows. Partner organizations like the Organized Crime and Corruption Reporting Project (OCCRP), Video Volunteers (VV) and CGNet Swara have been using models to measure the financial impact of their journalism for more than a decade.
 
- _**Case Study:**  _For every dollar that funds OCCRP, a staggering 560 USD is returned to public treasuries as a direct outcome of their investigations, which is a net return of 56000%. The cascading effect of deterring organized crime and corruption leads to a compounding benefit for society at large, apart from the funds returned to public treasuries through their investigative reporting._
+ **Case Study:**  _For every dollar that funds OCCRP, a staggering 560 USD is returned to public treasuries as a direct outcome of their investigations, which is a net return of 56000%. The cascading effect of deterring organized crime and corruption leads to a compounding benefit for society at large, apart from the funds returned to public treasuries through their investigative reporting._
 
 We believe measuring the outcome of impactful reporting outside the scope of our collective organizations will bring balance to the ecosystem at large.
 
@@ -18,7 +18,7 @@ Integrating a Decentralized Autonomous Organisation model (DAO), we can provide 
 
 Issuing social outcome backed financial and synthetic instruments that quantify the monetary impact resulting from reporting, bringing more transparency in the employment of funds.
 
- _**Case Study:** _A social impact bond (SIB) is results-based financing where an investor provides upfront capital for better social outcomes, which is repaid (usually by government) with returns depending on success of the social services program. In 2010, the Ministry of Justice in the United Kingdom issued the first SIB, giving investors a return directly proportional to the amount saved from reduced recidivism of released inmates at Peterborough Prison. In 2017, authorities announced that the Peterborough SIB had reduced reoffending of short-sentenced offenders by 9%, surpassing the bond&#39;s target of 7.5%._
+**Case Study:** _A social impact bond (SIB) is results-based financing where an investor provides upfront capital for better social outcomes, which is repaid (usually by government) with returns depending on success of the social services program. In 2010, the Ministry of Justice in the United Kingdom issued the first SIB, giving investors a return directly proportional to the amount saved from reduced recidivism of released inmates at Peterborough Prison. In 2017, authorities announced that the Peterborough SIB had reduced reoffending of short-sentenced offenders by 9%, surpassing the bond&#39;s target of 7.5%._
 
 So far, SIBs have primarily been issued by the public sector; however, private sector organizations and individuals can also issue them. SIBs have not yet been successfully implemented in the media space; we believe that tokenizing the impact of their reporting is the best path to reifying this funding model.
 
@@ -28,7 +28,7 @@ Integrating ethically sourced revenue streams by implementing a strong governanc
 
 Society stands to benefit from factual and outcome driven reporting. An ever-increasing amount of misinformation and polarization, combined with a need for government accountability, have resulted in a dire need for business models that support reporting in the public interest. Legacy media outlets and local newspapers dependent on advertising or print subscriptions have been mauled by the growth of social media and digitization. Attempts to commercialise internet-based news models have led to walled gardens, conflicts of interest or clickbait journalism. This stifles investigative reporting and skews the incentives against outcome-based solutions.
 
- _**Case Study:**  _In 10 years, CGNet Swara has had over 100,000 unique phone numbers calling their IVR server (using Asterisk and hooked up to PRI digital phone lines) to report or listen to stories. About 150,000 stories have been reported by more than 35,000 contributors, of which nearly 15% cleared the fact-checking stage and appeared on CGNet&#39;s website, social media handles and email lists, thus taking online the hitherto offline voices of communities to poor to upgrade their feature phones or purchase data packs, too remote to access the internet or too low-literate to navigate textual interfaces (those with internet can WhatsApp their story to the same number, which is linked to the WhatsApp Business API). There have been more than 1800 impact stories where contributors close the loop by reporting that the grievance lodged earlier – such as unfinished roads, need for clean water, etc - had been satisfactorily resolved. One of the organization&#39;s goals is having editors selecting stories for broadcast be elected by reporters in periodic elections, thus creating a model of representative media democracy. Many of CGNet&#39;s biggest donors, as well as Video Volunteers (having a similar impact driven model based on video reporting) link their funding to these impact stories based on outcomes._
+**Case Study:**  _In 10 years, CGNet Swara has had over 100,000 unique phone numbers calling their IVR server (using Asterisk and hooked up to PRI digital phone lines) to report or listen to stories. About 150,000 stories have been reported by more than 35,000 contributors, of which nearly 15% cleared the fact-checking stage and appeared on CGNet&#39;s website, social media handles and email lists, thus taking online the hitherto offline voices of communities to poor to upgrade their feature phones or purchase data packs, too remote to access the internet or too low-literate to navigate textual interfaces (those with internet can WhatsApp their story to the same number, which is linked to the WhatsApp Business API). There have been more than 1800 impact stories where contributors close the loop by reporting that the grievance lodged earlier – such as unfinished roads, need for clean water, etc - had been satisfactorily resolved. One of the organization&#39;s goals is having editors selecting stories for broadcast be elected by reporters in periodic elections, thus creating a model of representative media democracy. Many of CGNet&#39;s biggest donors, as well as Video Volunteers (having a similar impact driven model based on video reporting) link their funding to these impact stories based on outcomes._
 
 **Why Decentralised Autonomous Organisation?**
 
@@ -44,7 +44,7 @@ Transparency: A publicly auditable ecosystem bridges the trust gap amongst parti
 
 Our approach consists of utilizing a token model that balances governance and commercial viability of outcome driven reporting.
 
- _**Case Study:**  _Civil was an attempt to implement a decentralized, self-sustaining and censorship resistant ecosystem for journalism. It allowed token holders to create newsrooms and pledge civil tokens to support journalism in exchange for future revenues. However, they were unable to find a sustainable model beyond advertising or philanthropy for their network of newsrooms._
+**Case Study:**  _Civil was an attempt to implement a decentralized, self-sustaining and censorship resistant ecosystem for journalism. It allowed token holders to create newsrooms and pledge civil tokens to support journalism in exchange for future revenues. However, they were unable to find a sustainable model beyond advertising or philanthropy for their network of newsrooms._
 
 Grant-based and eyeball advertising driven models do not solely provide the right incentives and structure for sustainably reporting in the public interest. By measuring, recording, and verifying the positive externalities of impact reporting, we want to use a novel approach consisting of Tokenized Impact Bonds (TIBs) to revolutionize the economics of journalism.
 
@@ -64,11 +64,11 @@ Limiting public responsibility through more decentralized solutions that align e
 
 The governance tokens that are the foundation of the DAO ecosystem; a token holder will have the benefits of:
 
- _**Staking Rewards –** _A portion of IBT generated from measuring investigative outcomes are given as rewards to the governance token holders for locked staking of governance tokens.
+**Staking Rewards –** _A portion of IBT generated from measuring investigative outcomes are given as rewards to the governance token holders for locked staking of governance tokens._
 
- _**Voting –** _Bringing together a network of investigative reporters, media outlets, citizen journalists, civic activists, philanthropists, and other stakeholders to build a governance model that upholds integrity and supports sustainability as a collaborative endeavour. Governance token holders can also upvote and downvote the reputation of participants.
+**Voting –** _Bringing together a network of investigative reporters, media outlets, citizen journalists, civic activists, philanthropists, and other stakeholders to build a governance model that upholds integrity and supports sustainability as a collaborative endeavour. Governance token holders can also upvote and downvote the reputation of participants._
 
- _**Treasury –** _Acting as a financial buffer when marginalized stakeholders are unable to sustain costs. The treasury funds are accumulated and reserved overtime and can only be unlocked when specific criteria or consensus have been met amongst all actors. The treasury funds can also be invoked when reporters or whistle blowers require legal assistance and protection.
+**Treasury –** _Acting as a financial buffer when marginalized stakeholders are unable to sustain costs. The treasury funds are accumulated and reserved overtime and can only be unlocked when specific criteria or consensus have been met amongst all actors. The treasury funds can also be invoked when reporters or whistle blowers require legal assistance and protection._
 
 **Impact-Backed Tokens (IBT)**
 
@@ -88,7 +88,7 @@ NFT holders passively earn a fraction of IBTs that are minted when the issuing p
 
 Auctioning NFTs of reports to generate additional revenue.
 
-_**Case Study:** _South China Morning Post (SCMP) is tokenizing their historical news reporting over 118 years. Their news stories, photos or video clips of significant events are made into NFTs -referred to as ARTIFACTs – to facilitate discoverability, connectivity and collectability. Revenue is to be obtained from primary sales of ARTIFACTs, royalties from their secondary transactions and a fee if traded on their marketplace._
+**Case Study:** _South China Morning Post (SCMP) is tokenizing their historical news reporting over 118 years. Their news stories, photos or video clips of significant events are made into NFTs -referred to as ARTIFACTs – to facilitate discoverability, connectivity and collectability. Revenue is to be obtained from primary sales of ARTIFACTs, royalties from their secondary transactions and a fee if traded on their marketplace._
 
 Issuing Tokenized SIBs with IBTs serving as a verified proof of outcome significantly reduce the trust barrier between stakeholders. These tokens can be instrumental in replacing intermediaries with decentralised models, thus bringing scalability and inclusivity to the SIB model.
 
