@@ -1,2 +1,2 @@
 # TIBs
-Tokenized Impact Bonds
+Tokenized Community Verified Impact Bonds leveraging DAOs
