@@ -1,4 +1,4 @@
-Tokenized Impact Bonds (TIBs)
+## Tokenized Impact Bonds (TIBs)
 
 Mission Summary
 Measuring meaningfully the financial impact of disruptive reporting that includes but is not limited to combatting corruption, grievance redressal and more as the ecosystem grows. Partner organizations like the Organized Crime and Corruption Reporting Project (OCCRP), Video Volunteers (VV) and CGNet Swara have been using models to measure the financial impact of their journalism for more than a decade.
