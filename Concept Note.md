@@ -4,9 +4,7 @@
 
 Measuring meaningfully the financial impact of disruptive reporting that includes but is not limited to combatting corruption, grievance redressal and more as the ecosystem grows. Partner organizations like the Organized Crime and Corruption Reporting Project (OCCRP), Video Volunteers (VV) and CGNet Swara have been using models to measure the financial impact of their journalism for more than a decade.
 
-_ **Case Study:** _ _For every dollar that funds OCCRP, a staggering 560 USD is returned to public treasuries as a direct outcome of their investigations, which is a net return of 56000%
-# i
-. The cascading effect of deterring organized crime and corruption leads to a compounding benefit for society at large, apart from the funds returned to public treasuries through their investigative reporting._
+**Case Study:** For every dollar that funds OCCRP, a staggering 560 USD is returned to public treasuries as a direct outcome of their investigations, which is a net return of 56000%. The cascading effect of deterring organized crime and corruption leads to a compounding benefit for society at large, apart from the funds returned to public treasuries through their investigative reporting._
 
 We believe measuring the outcome of impactful reporting outside the scope of our collective organizations will bring balance to the ecosystem at large.
 
@@ -14,18 +12,12 @@ We believe measuring the outcome of impactful reporting outside the scope of our
 
 Create an inclusive and sustainable model that enables journalists, newsrooms, governments, philanthropies, NGOs, brands, advertising agencies, civic activists, researchers, and universities to achieve their collective goals.
 
-There is a need to record historical reputation of stake holders for building a trust-based ecosystem where good actors are rewarded, and bad actors are penalized. A 2019 Gallop poll found that Americans trust in media has steadily declined by 14% over the last 20 years to only 41%
-# ii
-. Consistency, reliability, and diligence in tracking outcomes can help new entrants build and leverage their reputation to empower their careers or grow their organisations.
-
+There is a need to record historical reputation of stake holders for building a trust-based ecosystem where good actors are rewarded, and bad actors are penalized. A 2019 Gallop poll found that Americans trust in media has steadily declined by 14% over the last 20 years to only 41%. Consistency, reliability, and diligence in tracking outcomes can help new entrants build and leverage their reputation to empower their careers or grow their organisations.
 Integrating a Decentralized Autonomous Organisation model (DAO), we can provide the opportunity to leverage the commercial value of impactful investigative and citizen reports, while severely restricting or eliminating the possibility of censoring or compromising the integrity of stories.
-
 Issuing social outcome backed financial and synthetic instruments that quantify the monetary impact resulting from reporting, bringing more transparency in the employment of funds.
 
-_ **Case Study:** __A social impact bond (SIB) is results-based financing where an investor provides upfront capital for better social outcomes, which is repaid (usually by government) with returns depending on success of the social services program. In 2010, the Ministry of Justice in the United Kingdom issued the first SIB, giving investors a return directly proportional to the amount saved from reduced recidivism of released inmates at Peterborough Prison
-# iii
-. In 2017, authorities announced that the Peterborough SIB had reduced reoffending of short-sentenced offenders by 9%, surpassing the bond&#39;s target of 7.5%.
-# iv_
+**Case Study:** __A social impact bond (SIB) is results-based financing where an investor provides upfront capital for better social outcomes, which is repaid (usually by government) with returns depending on success of the social services program. In 2010, the Ministry of Justice in the United Kingdom issued the first SIB, giving investors a return directly proportional to the amount saved from reduced recidivism of released inmates at Peterborough Prison. In 2017, authorities announced that the Peterborough SIB had reduced reoffending of short-sentenced offenders by 9%, surpassing the bond&#39;s target of 7.5%.
+
 
 So far, SIBs have primarily been issued by the public sector; however, private sector organizations and individuals can also issue them. SIBs have not yet been successfully implemented in the media space; we believe that tokenizing the impact of their reporting is the best path to reifying this funding model.
 
