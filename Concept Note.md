@@ -42,6 +42,9 @@ Transparency: A publicly auditable ecosystem bridges the trust gap amongst parti
 
 **Token Economics Overview**
 
+
+![](https://raw.githubusercontent.com/holderfolyf/TIBs/holderfolyf-patch-1/images/small/DAO%20Structure%20small.png)
+
 Our approach consists of utilizing a token model that balances governance and commercial viability of outcome driven reporting.
 
 **Case Study:**  _Civil was an attempt to implement a decentralized, self-sustaining and censorship resistant ecosystem for journalism. It allowed token holders to create newsrooms and pledge civil tokens to support journalism in exchange for future revenues. However, they were unable to find a sustainable model beyond advertising or philanthropy for their network of newsrooms._
