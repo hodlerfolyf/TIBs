@@ -64,7 +64,9 @@ Lowering monitoring costs by tracing, verifying, and measuring outcomes through 
 Limiting public responsibility through more decentralized solutions that align economic incentives between various stakeholders. Encouraging innovation and localised solutions for diverse issues.
 
 **DAO Governance Tokens**
+
 ![](https://raw.githubusercontent.com/holderfolyf/TIBs/holderfolyf-patch-1/images/small/DAO%20Structure%20small.png)
+
 The governance tokens that are the foundation of the DAO ecosystem; a token holder will have the benefits of:
 
 **Staking Rewards –** _A portion of IBT generated from measuring investigative outcomes are given as rewards to the governance token holders for locked staking of governance tokens._
