@@ -43,7 +43,7 @@ Transparency: A publicly auditable ecosystem bridges the trust gap amongst parti
 **Token Economics Overview**
 
 
-![](https://github.com/holderfolyf/TIBs/blob/holderfolyf-patch-1/images/small/TOKEN%20Overview%20small.png)
+![](https://github.com/hodlerfolyf/TIBs/blob/main/images/small/TOKEN%20Overview%20small.png)
 
 Our approach consists of utilizing a token model that balances governance and commercial viability of outcome driven reporting.
 
@@ -65,7 +65,7 @@ Limiting public responsibility through more decentralized solutions that align e
 
 **DAO Governance Tokens**
 
-![](https://raw.githubusercontent.com/holderfolyf/TIBs/holderfolyf-patch-1/images/small/DAO%20Structure%20small.png)
+![](https://github.com/hodlerfolyf/TIBs/blob/main/images/small/DAO%20Structure%20small.png)
 
 The governance tokens that are the foundation of the DAO ecosystem; a token holder will have the benefits of:
 
@@ -77,7 +77,7 @@ The governance tokens that are the foundation of the DAO ecosystem; a token hold
 
 **Impact-Backed Tokens (IBT)**
 
-![](https://github.com/holderfolyf/TIBs/blob/holderfolyf-patch-1/images/small/IBT%20Token%20Model%20small.png)
+![](https://github.com/hodlerfolyf/TIBs/blob/main/images/small/IBT%20Token%20Model%20small.png)
 
 The utility tokens are required for employing services that can be leveraged from the DAO and act as a proof of impactful outcome for reporters in the network.
 
