@@ -1,8 +1,6 @@
-# TIBs
-Tokenized Community Verified Impact Bonds leveraging DAOs
+# TOkenized Impact Bonds (TIBs)
 
 
-Outcomes based financing for investigative reporters, citizen journalists and other stakeholders for measurable outcomes stemming from their work.
+Revolutioizing the delivery of social services using pay-for-performance smart contracts on permissionless blockchains.
 
-
-Kindly read Concept Note.md for more information.
+Kindly read Concept Notes for more information.
