@@ -1,12 +1,21 @@
-We are an international team of journalists and technologists interested in finding business models for speaking truth to power and giving a voice to the voiceless. Cumulative funding of 10 Million USD across partner organisations has resulted in measurable outcomes exceeding 8 Billion USD over the past decade.
 
 
-Siddique Patel Business Consulting for tech-driven start-ups. Early Crypto Investor.
 
-Devansh Mehta Founder of Voice-Deck.
+Siddique Patel Business Consulting for tech-driven start-ups. Blockchain Innovator with 9+ years of Crypto Experience.
 
-Paul Radu Co-Founder of OCCRP.
+Devansh Mehta Whatsapp API and IVR for social services.
 
-Shubhranshu Choudhary & Bill Thies, Co-Founders of CGNet Swara.
 
-Jessica Mayberry Founder of Video Volunteers.
+Media-Based Organisations 
+
+Organised Crime and Corruption reporting Project (OCCRP)
+
+https://twitter.com/DrewOCCRP/status/1531938058039328768
+
+CGNet Swara.
+
+https://twitter.com/CGNet_Swara/status/1529074401190514688
+
+Video Volunteers.
+
+https://twitter.com/jessiekmayberry/status/1471103881895682058
