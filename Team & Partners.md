@@ -1,12 +1,12 @@
 
+## BUIDLers
+
+Siddique Patel: Business Consulting for tech-driven start-ups. Blockchain Innovator with 9+ years of Crypto Experience.
+
+Devansh Mehta: Whatsapp API and IVR for social services.
 
 
-Siddique Patel Business Consulting for tech-driven start-ups. Blockchain Innovator with 9+ years of Crypto Experience.
-
-Devansh Mehta Whatsapp API and IVR for social services.
-
-
-Media-Based Organisations 
+## Media-Based Organisations 
 
 Organised Crime and Corruption reporting Project (OCCRP)
 
