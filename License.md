@@ -1,4 +1,4 @@
-Copyright 2021 hodlerfolyf 
+Copyright 2021 Siddique Patel 
 
 The MIT License
 
