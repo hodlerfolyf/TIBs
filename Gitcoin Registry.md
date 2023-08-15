@@ -17,3 +17,10 @@ Participants ranging from funders to non-profits receive badges attesting to the
 | **Difficulty in tangible recognition for donors** | **Certbox & Evaluated Hypercerts** for donations with an associated utility ecosystem. |
 | **Private Underutilised Impact Databases** | **Record Impact on public chains** to streamline process of creating impact certificates from data. |
 | **Scattered Ecosystems** | **Create a reserve assets backed by impact** to bridge Impact NFTs and Hypercerts onto a single platform. |
+
+![Comparison View](https://github.com/hodlerfolyf/TIBs/blob/main/images/Use%20of%20Funds.PNG)
+
+- Resources guide users on utilizing Testnet which includes tutorials, how-to guides, and FAQs.
+- Formulating an impact multiplier based on givewells analysis on impact from top charities fund.
+- Gathering feedback from funders non-profits and evaluators to iterate mvp.
+- All Community Contributions will go to our consensus staking fund which passively buys impact certificates.
