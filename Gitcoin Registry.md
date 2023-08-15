@@ -24,3 +24,7 @@ Participants ranging from funders to non-profits receive badges attesting to the
 - Formulating an impact multiplier based on givewells analysis on impact from top charities fund.
 - Gathering feedback from funders non-profits and evaluators to iterate mvp.
 - All Community Contributions will go to our consensus staking fund which passively buys impact certificates.
+
+🔘 [Givewell Dataset](https://docs.google.com/spreadsheets/d/1z065ab9PPMu9i5KiQ4yLyQJPFQCfEzHSgtHulPiZeBo/edit?usp=gmail_thread#gid=1061916285)
+
+🔘 [Git Repo](https://github.com/hodlerfolyf/TIBs)
