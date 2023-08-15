@@ -8,15 +8,16 @@ Participants ranging from funders to non-profits receive badges attesting to the
 
 ![Overview](https://github.com/hodlerfolyf/TIBs/raw/main/images/Overview.png)
 
-| **Issue with Impact Bonds** | **Solution with Tokenized Impact Bonds** |
-|-----------------------------|-----------------------------------------|
-| **High setup and evaluation costs** | **Pay for performance Smart-Contracts** offer a cost-effective, modular and composable alternative.
-| **Limited access to only well-funded entities** | **Decentralized, permissionless** engagement with smaller donors to scale their contributions. |
-| **Stakeholder coordination challenge** | **DAO Ecosystem** minimizes admin costs and communication overhead. |
-| **Steep Monitoring & Evaluation Cost (7-10%)** | **Hybrid Oracles & Algorithmic Evidence Mapping** to validate impact claims & link funding to outcomes. |
-| **Difficulty in tangible recognition for donors** | **Certbox & Evaluated Hypercerts** for donations with an associated utility ecosystem. |
-| **Private Underutilised Impact Databases** | **Record Impact on public chains** to streamline process of creating impact certificates from data. |
-| **Scattered Ecosystems** | **Create a reserve assets backed by impact** to bridge Impact NFTs and Hypercerts onto a single platform. |
+Issue with Impact Bonds                         | Solution with Tokenized Impact Bonds
+:---------------------------------------------:|:-------------------------------------:
+High setup and evaluation costs                | Pay for performance Smart-Contracts offer a cost-effective, modular and composable alternative.
+Limited access to only well-funded entities    | Decentralized, permissionless engagement with smaller donors to scale their contributions.
+Stakeholder coordination challenge             | DAO Ecosystem minimizes admin costs and communication overhead.
+Steep Monitoring & Evaluation Cost (7-10%)     | Hybrid Oracles & Algorithmic Evidence Mapping to validate impact claims & link funding to outcomes.
+Difficulty in tangible recognition for donors  | Certbox & Evaluated Hypercerts for donations with an associated utility ecosystem.
+Private Underutilised Impact Databases         | Record Impact on public chains to streamline process of creating impact certificates from data.
+Scattered Ecosystems                           | Create a reserve assets backed by impact to bridge Impact NFTs and Hypercerts onto a single platform.
+
 
 
 **Use of Funds**
